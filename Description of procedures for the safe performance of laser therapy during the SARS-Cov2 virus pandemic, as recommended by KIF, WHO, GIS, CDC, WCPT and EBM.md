@@ -34,6 +34,7 @@ The recommendations instruct.
 - dispose of personal protective equipment in the red bag.
 
 
+
 ### Stage 2 - Risk assessment, interview
 
 **2.1 Next stage: the physiotherapist is required to make a risk assessment based on knowledge provided from certain sources such as:**
@@ -54,19 +55,21 @@ The recommendations instruct.
 *If the clinical condition allows it, the patient must wear a protective mask for the duration of contact with the physiotherapist /personnel.*
 
 
+
 ### Stage 3 - Physiotherapy examination
 
 - The physiotherapist is obliged to carry out the physiotherapy examination with particular attention to the epidemiological interview. 
 - The information from this interview absolutely must be recorded in the medical records created by the physiotherapist. 
 - Each day, before providing health services, the physiotherapist shall conduct an epidemiological interview with the patient or ward staff according to Appendix 2 (appendix 2 - Update questionnaire).
 
-**3.1 The physiotherapist's responsibility during all activities with the patient** [^1] to use the maximum safe, obtainable personal protective equipment (as recommended by GIS, WHO) ensuring the safety of both the physiotherapist and the patient.
+**3.1 The physiotherapist's responsibility during all activities with the patient** * to use the maximum safe, obtainable personal protective equipment (as recommended by GIS, WHO) ensuring the safety of both the physiotherapist and the patient.
 
-**3.2 In the absence of such protection:** [^1]
+**3.2 In the absence of such protection:** *
 - abandon the activity,
 - note this fact in the medical records. 
 
-[^1] *ECDC recommendations on donning and doffing PPE when caring for patients with suspected or confirmed SARS-CoV-2 infection (COVID-19).*
+*ECDC recommendations on donning and doffing PPE when caring for patients with suspected or confirmed SARS-CoV-2 infection (COVID-19).*
+
 
 
 ### Stage 4 - Laser therapy treatment
@@ -108,6 +111,7 @@ The recommendations instruct.
 - physiotherapist after the treatment with caution:
   - connects the treatment device as soon as possible,
   - disinfects hands with disinfectant. 
+
 
 
 ### Stage 5- Disinfection
